@@ -1,0 +1,9 @@
+1 - ayam goreng
+2 - ayam gulai
+3 - ayam bakar
+4 - ayam mentah
+5 - lele goreng
+6 - lele bakar
+7 - nila bakar
+8 - nila goreng
+9 - cumi goreng tepung
